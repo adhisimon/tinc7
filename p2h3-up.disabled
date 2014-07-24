@@ -1,0 +1,3 @@
+#!/bin/sh
+ip ro add default via 172.16.7.1
+
