@@ -1,0 +1,13 @@
+Subnet = 172.16.7.16/32
+Address = 10.254.135.21
+Port = 6550
+Compression = 10
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAufvpdjy54mLFraFo/MGUcHoaN9yWAi7NtcO7+fl0edppGDWb9ksW
+RKsJlYJ64DSMN6cCM56FYzkqmr6n04hdXuWxZ3gU4VMVbezqnwK6hgBgbgpx2Ayb
+EBhzK1VxTysHrL9JLQvCfoh9bdN6pr2JhtalWcfpDJygRy9SNv3+nFZQtUHmZArG
+D0sV1ugr09qPw2DRFyYRTha8OZkEyjURlNBygRQlucUb5PytPjMki5GEhoMFKMgF
+ToT6esyQ9upn4Xc6i90CDQJOufs2Cn4EZvCoNujenVjKBc+3sl0YoLlvwyekPsjB
+F9e0vOpCnzggonSiAMQgeAHLHGBFLop0lwIDAQAB
+-----END RSA PUBLIC KEY-----

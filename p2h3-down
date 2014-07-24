@@ -1,0 +1,3 @@
+#!/bin/sh
+ip ro del default via 172.16.7.1
+
